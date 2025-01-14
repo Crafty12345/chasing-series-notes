@@ -1,0 +1,4 @@
+- Husband of [Fedde Sauer](Fedde%20Albert%20Sauer.md)
+- Mother of [Krystol Sauer](Krystol%20Sauer.md)
+- Friendly, outgoing
+- Blunt

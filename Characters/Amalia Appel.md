@@ -1,0 +1,3 @@
+- Ran away from home when she was ~14
+- [Zelda](Students/Zelda%20Appel)'s older sister
+- Born 2004

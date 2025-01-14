@@ -1,0 +1,13 @@
+{
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": true,
+    "margin": "1",
+    "downscalePercent": 90
+  },
+  "attachmentFolderPath": "content/images",
+  "vimMode": false
+}

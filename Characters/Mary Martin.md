@@ -1,0 +1,8 @@
+- Australian
+- Has been married to [William](William%20Martin.md) for a very long time
+- Had lots of lovers in school but didn't like any of them back
+	- All of her high school lovers treated her badly and didn't like her personality
+- Former headmistress at a school
+	- Meeting the teachers at the school led her to become nicer and more relaxed
+- Very smart
+- Enjoys watching murder mysteries on the TV with [William](William%20Martin.md)

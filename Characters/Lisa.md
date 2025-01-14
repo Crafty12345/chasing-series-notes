@@ -1,0 +1,9 @@
+- Zelda's paternal aunt (her father's sister)
+- Introduced about midway through Chasing Ghosts
+- Paid by Zelda's father to spy on Zelda
+	- Doesn't mind doing this because it means she can travel around, and learn more about Zelda
+	- Also does because she is bored and doesn't know what to do for a career
+- In-universe author of and photographer for Chasing Hearts Part 1
+- Fears retribution from Zelda's father if she quits
+- Met Krystol at Gunda and Zelda's father's wedding
+- 

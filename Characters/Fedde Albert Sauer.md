@@ -1,0 +1,4 @@
+- Wife of [Tamina Sauer](Tamina%20Carleigh%20Sauer.md)
+- Father of [Krystol Sauer](Krystol%20Sauer.md) and [Arnold Sauer](Arnold%20Sauer.md)
+- Blunt
+- Quiet

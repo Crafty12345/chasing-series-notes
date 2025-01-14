@@ -1,0 +1,283 @@
+{
+  "main": {
+    "id": "086363e1d33068a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "280c7fc2377fbb80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60821b31805b086d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CD Plans.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CD Plans"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2274037c3bc8a307",
+    "type": "split",
+    "children": [
+      {
+        "id": "45b6260d2a3eaa20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58ac83c9f5a8cdc2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e03761d8fc639092",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Pearl",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3e3c390eef9c2320",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "b623790aab424cdf",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 445.5128364562988
+  },
+  "right": {
+    "id": "db843e0a1e044f16",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e562d09aa273be7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77edc7fa2b6866d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/Ghosts/Ghost Hierarchy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Ghost Hierarchy"
+            }
+          },
+          {
+            "id": "822a09e5b34e1341",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/Ghosts/Ghost Hierarchy.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Ghost Hierarchy"
+            }
+          },
+          {
+            "id": "a21cebb58f1b4d74",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d4d43d2160ad0514",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1bc8b27d65f5db57",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/Ghosts/Ghost Hierarchy.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Ghost Hierarchy"
+            }
+          },
+          {
+            "id": "4345e51e6465b163",
+            "type": "leaf",
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {},
+              "icon": "cloud",
+              "title": "QuickShare"
+            }
+          },
+          {
+            "id": "19c3fb8a69fb78f9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "3b44ec10f6f99eff",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "content/Ghosts/Ghost Hierarchy.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Ghost Hierarchy"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "digitalgarden:Digital Garden Publication Center": false
+    }
+  },
+  "active": "60821b31805b086d",
+  "lastOpenFiles": [
+    "Home.md",
+    "Characters/Students/Fiadh Gallagher.md",
+    "CD Plans.md",
+    "Characters/Students/Zelda Appel.md",
+    "Characters/Characters.md",
+    "Family Trees.md",
+    "Characters/Gunda Appel.md",
+    "Setting/Germany.md",
+    "Characters/Students/Zayn Belanger.md",
+    "Setting/Kalamunda Sapling School.md",
+    "Chasing Ghosts Plot Plans.md",
+    "Chapter Summaries/index.md",
+    "content/Characters/Lorcan O'Sullivan.md",
+    "content/CD Plans.md",
+    "content/Chasing Hearts Family Trees.canvas",
+    "content/Characters/Students/Zelda Appel.md",
+    "content/Characters/Gunda Appel.md",
+    "content/Characters/Teachers/Kasey Howard.md",
+    "content/Chasing Hearts.canvas",
+    "content/index.md",
+    "content/Family Trees.md",
+    "content/Chasing Ghosts Plot Plans.md",
+    "content/Setting.md",
+    "content/Characters/Students/Edwin Castillo.md",
+    "content/Ghosts/Ghost Hierarchy.md",
+    "content/Ghosts/Ruins/Wrangler Ruin.md",
+    "content/Ghosts/Ruins/Turbulent Ruin.md",
+    "content/Characters/Amalia Appel.md",
+    "content/PMAALD Family Tree.canvas",
+    "content/Main Group Relationship Diagram.svg",
+    "node_modules/ajv",
+    "node_modules/uuid/v5.js",
+    "node_modules/uuid/v4.js",
+    "node_modules/uuid/v3.js",
+    "node_modules/uuid/package.json",
+    "node_modules/uuid/v1.js",
+    "node_modules/uuid/lib",
+    "node_modules/uuid/index.js",
+    "node_modules/uuid/bin",
+    "node_modules/uuid/AUTHORS",
+    "public/static/og-image.png",
+    "public/static/icon.png",
+    "public/images/Zelda.jpg",
+    "public/images/Zayn.png",
+    "public/images/Sheila.png",
+    "public/images/Shay.png",
+    "public/images/Roosje.png",
+    "public/images/Riona.png",
+    "public/images/Pasted-image-20240415225346.png",
+    "public/PMAALD-Family-Tree.canvas",
+    "public/Chasing-Hearts.canvas",
+    "public/Chasing-Hearts-Family-Trees.canvas",
+    "Chasing Ghosts Plans/Chasing Hearts Family Trees.canvas",
+    "Chasing Ghosts Plans/Chasing Hearts.canvas",
+    "Chasing Ghosts Plans/PMAALD Family Tree.canvas"
+  ]
+}

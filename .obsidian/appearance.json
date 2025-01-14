@@ -1,0 +1,9 @@
+{
+  "accentColor": "",
+  "baseFontSize": 18,
+  "enabledCssSnippets": [
+    "timeline"
+  ],
+  "theme": "moonstone",
+  "cssTheme": "Dracula for Obsidian"
+}

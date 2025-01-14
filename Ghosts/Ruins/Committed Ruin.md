@@ -1,0 +1,3 @@
+#ruin 
+- Very strongly willed
+- 

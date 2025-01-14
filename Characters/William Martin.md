@@ -1,0 +1,7 @@
+- Australian
+- [Ron](Ron%20Cook.md) likes to call him "Willy", as a joke
+- Has been married to [Mary](Mary%20Martin.md) for a very long time
+- Former security guard
+- Had a girlfriend before he met [Mary](Mary%20Martin.md) but he was too work-oriented for her
+- Very smart
+- Enjoys watching murder mysteries on the TV with [Mary](Mary%20Martin.md)

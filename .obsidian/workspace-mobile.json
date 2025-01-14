@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "4e54f2f9eecdcae9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3f941849a083606",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8b862d5927f194a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7cf73b83466b9f20",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "fc8108da34951e4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chasing Ghosts Plans/Characters/Students/Myrthe Hoedmaker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f8a32ed71ad7be2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chasing Ghosts Plans/Ghosts/Guardian Angels.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "66644d164c74453a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f3bbc32edf1f94d1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f73ecb77edb9ae8f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "03562c840320815d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "c2a2e1c714d182be",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "3f15a43f8f1f2d33",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "9904cb6933df0581",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4591e09999f01fef",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Chasing Ghosts Plans/Ghosts/Guardian Angels.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f626739dc51825c0",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Chasing Ghosts Plans/Ghosts/Guardian Angels.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b7ec70cd19922ceb",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Chasing Ghosts Plans/Ghosts/Guardian Angels.md"
+          }
+        }
+      },
+      {
+        "id": "a1f016ea4c6d6ea5",
+        "type": "leaf",
+        "state": {
+          "type": "QUICKSHARE_SIDE_VIEW",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1f8a32ed71ad7be2",
+  "lastOpenFiles": [
+    "Chasing Ghosts Plans/Ghosts/Ghosts.md",
+    "Chasing Ghosts Plans/Ghosts/Guardian Angels.md",
+    "Chasing Ghosts Plans/Chasing Hearts Family Trees.canvas",
+    "Chasing Ghosts Plans/Characters/Students/Elvira Carina Angert.md",
+    "Chasing Ghosts Plans/Timeline/Chasing Hearts Timeline Vertical.md",
+    "Chasing Ghosts Plans/Timeline/Chasing Hearts Timeline Data.md",
+    "Chasing Ghosts Plans/Timeline/Chasing Hearts Timeline Horizontal.md",
+    "Chasing Ghosts Plans/images/Pasted image 20231218133313.png",
+    "Chasing Ghosts Plans/images/Mila.png",
+    "Chasing Ghosts Plans/images/Zayn.png",
+    "Chasing Ghosts Plans/images/Riona.png",
+    "Chasing Ghosts Plans/images/Margaret.png",
+    "Chasing Ghosts Plans/images/Shay.png",
+    "Chasing Ghosts Plans/images/Sheila.png",
+    "Chasing Ghosts Plans/images/Flora.png",
+    "Chasing Ghosts Plans/images/Harper.jpg",
+    "Chasing Ghosts Plans/images/Zelda.jpg",
+    "Chasing Ghosts Plans/Chasing Ghosts Family Trees.canvas",
+    "Chasing Ghosts Plans/Characters/William Martin.md",
+    "Chasing Ghosts Plans/Characters/Mary Martin.md",
+    "Chasing Ghosts Plans/Characters/Caroline Cook.md",
+    "Chasing Ghosts Plans/Characters/Students/Sheila Cook.md",
+    "Chasing Ghosts Plans/Characters/Barry Cook.md",
+    "Chasing Ghosts Plans/Characters/Teachers/Aubin Duplantier.md",
+    "Chasing Ghosts Plans/Characters/Amberleigh Allen.md",
+    "Chasing Ghosts Plans/Characters/Ron Cook.md",
+    "Chasing Ghosts Plans/Characters/Matilda Martin.md",
+    "Chasing Ghosts Plans/Characters/Teachers/Adélard Duplantier.md",
+    "Chasing Ghosts Plans/Characters/Students/Ivy Duplantier.md",
+    "Chasing Ghosts Plans/PMAALD Family Tree.canvas",
+    "Chasing Ghosts Plans/Characters/Teachers/Flora Duplantier 2.md",
+    "Chasing Ghosts Plans/Characters/Students/Agata Lustig.md",
+    "The Generational Ruin.md",
+    "Chasing Ghosts Plans/Characters/Students/Myrthe Hoedmaker.md",
+    "Chasing Ghosts Plans/Characters/Teachers/Eleonara (Ellie) Bouwmeester.md",
+    "Chasing Ghosts Plans/Characters/Julij Jenkins.md",
+    "Chasing Ghosts Plans/Characters/Jimmi Jenkins.md",
+    "Chasing Ghosts Plans/Characters/Mariella Bouwmeester.md",
+    "Chasing Ghosts Plans/Characters/Students/Finlay.md",
+    "Chasing Ghosts Plans/Chasing Ghosts.canvas",
+    "Chasing Ghosts Plans/Classes"
+  ]
+}

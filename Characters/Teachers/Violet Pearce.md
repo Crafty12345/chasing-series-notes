@@ -1,0 +1,12 @@
+#teacher #drama #music
+- Australian
+- Teaches [Drama](Drama.md)
+- Not over-the-top stereotypical Australian
+- VERY laid back & chill
+- Nice, friendly
+- Hates homework
+- Enjoys cooking in her spare time
+- Strong advocate for “Ziadh”
+- Plays violin - ends up teaching Zelda in the future
+- Mother of [Victoria Pearce](Victoria%20Pearce.md)
+- 

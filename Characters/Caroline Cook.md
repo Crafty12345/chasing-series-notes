@@ -1,0 +1,4 @@
+- Australian
+- Lives in Geraldton with [Ron Cook](Ron%20Cook.md)
+- Frequently questions [Ron](Ron%20Cook.md)
+- 

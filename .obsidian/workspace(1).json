@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "f2c9fc6f90d55b73",
+    "type": "split",
+    "children": [
+      {
+        "id": "60c0ea6ba11b5c70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6938f3b22ff911f2",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Chasing Ghosts Plans/Chasing Ghosts Family Trees.canvas",
+                "viewState": {
+                  "x": 9967.40142141296,
+                  "y": 1847.9239847830197,
+                  "zoom": -2.5057165229394567
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c6fd24dff198943",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1f55d8e021d429f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86c4733733c6fd9a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "833353b857514969",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "e1b4ccd07aaac5b5",
+            "type": "leaf",
+            "state": {
+              "type": "diagram-edit",
+              "state": {
+                "file": "Chasing Ghosts Plans/Main 5 Relationship Diagram.svg"
+              }
+            }
+          },
+          {
+            "id": "8faf236706cc4d0a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "23256fc71fc9c770",
+    "type": "split",
+    "children": [
+      {
+        "id": "836e840636f49356",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bab1167e7a9e1832",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chasing Ghosts Plans/Chasing Ghosts Family Trees.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7efbe75d78fe5045",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Chasing Ghosts Plans/Chasing Ghosts Family Trees.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4aaa39d9019b7dca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "75d443510d67c34b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Chasing Ghosts Plans/Chasing Ghosts Family Trees.canvas"
+              }
+            }
+          },
+          {
+            "id": "2c99fe600ba52f21",
+            "type": "leaf",
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6938f3b22ff911f2",
+  "lastOpenFiles": [
+    "Pasted image 20230828153732.png",
+    "Pasted image 20230828153601.png",
+    "Pasted image 20230828153529.png",
+    "Pasted image 20230828153345.png",
+    "Pasted image 20230828153146.png",
+    "Pasted image 20230828153052.png",
+    "Pasted image 20230828153017.png",
+    "Pasted image 20230828152929.png",
+    "Pasted image 20230828152814.png",
+    "Pasted image 20230828152745.png",
+    "Pasted image 20230828152705.png",
+    "Chasing Ghosts Plans/Chasing Ghosts Family Trees.canvas",
+    "Chasing Ghosts Plans/Characters/Christopher Gallagher.md",
+    "Chasing Ghosts Plans/Characters/Audrey Baker.md",
+    "Chasing Ghosts Plans/Characters/Addison (Addo) Baker.md",
+    "Chris Gallagher.md",
+    "Chasing Ghosts Plans/Characters/Teachers/Amanda Jones.md",
+    "Chasing Ghosts Plans/Characters/Teachers/Jason Scott.md",
+    "Chasing Ghosts Plans/Characters/Teachers/James Smith.md",
+    "Chasing Ghosts Plans/Characters/Teachers/Aiko Chiba.md",
+    "Chasing Ghosts Plans/Characters/Teachers/Anne-Sophie De La Fontaine.md",
+    "Chasing Ghosts Plans/Characters/Teachers/Theodore Lewis.md",
+    "Chasing Ghosts Plans/Characters/Teachers/Violet Pearce.md",
+    "Chasing Ghosts Plans/Characters/Teachers/Kasey Howard.md",
+    "Chasing Ghosts Plans/Characters/Teachers/Krystol Sauer.md",
+    "Chasing Ghosts Plans/Characters/Teachers/Charlie Webb.md",
+    "Chasing Ghosts Plans/Characters/Teachers/Blanche Archambeau.md",
+    "Chasing Ghosts Plans/Characters/Teachers/Aimee Lewis.md",
+    "Chasing Ghosts Plans/Characters/Teachers/Eulalia Cortez.md",
+    "Untitled.canvas",
+    "Chasing Ghosts Plans/Characters/Students/Alex.md",
+    "Chasing Ghosts Plans/Characters/Students/Zayn Belanger.md",
+    "Chasing Ghosts Plans/Chasing Ghosts.canvas",
+    "Chasing Ghosts Plans/Teachers.md",
+    "Chasing Ghosts Plans/Timeline/Chasing Hearts Timeline Data.md",
+    "Chasing Ghosts Plans/Timeline/Chasing Hearts Timeline Vertical.md",
+    "Chasing Ghosts Plans/Timeline/Chasing Hearts Timeline Horizontal.md",
+    "Chasing Ghosts Plans/Characters.md",
+    "Chasing Ghosts Plans/Timeline",
+    "Chasing Ghosts Plans/Characters/Gunda Appel.md",
+    "Chasing Ghosts Plans/Classes",
+    "Chasing Ghosts Plans/Ruins",
+    "Chasing Ghosts Plans/Characters/Students",
+    "Chasing Ghosts Plans/Characters/Teachers",
+    "Chasing Ghosts Plans/Setting",
+    "Characters",
+    "Chasing Ghosts Plans/Characters",
+    "Chasing Ghosts Plans"
+  ]
+}

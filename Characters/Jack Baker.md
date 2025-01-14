@@ -1,0 +1,5 @@
+- Australian
+	- Lives in Margaret River with [Margaret](Margaret%20Baker.md), though he travels a lot so he isn't with her highly often
+- Former record-breaking Olympic athlete
+- VERY fit/strong
+- 

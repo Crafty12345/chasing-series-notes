@@ -1,0 +1,6 @@
+- Family:
+	- Dutch (from South Holland)
+	- Sister of [Ellie Bouwmeester](Eleonara%20(Ellie)%20Bouwmeester.md)
+- Loves giving love advice but she's bad at it
+- Works at *Bij Het Strand*, in Freo
+- VERY critical of food
