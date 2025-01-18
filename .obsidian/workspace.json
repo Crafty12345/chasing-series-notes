@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CD Plans.md",
+                "file": "2023 Timetables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CD Plans"
+              "title": "2023 Timetables"
             }
           }
         ]
@@ -79,8 +79,8 @@
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {},
-              "icon": "longform",
-              "title": "Longform"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -175,8 +175,8 @@
             "state": {
               "type": "QUICKSHARE_SIDE_VIEW",
               "state": {},
-              "icon": "cloud",
-              "title": "QuickShare"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -185,8 +185,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -200,9 +200,19 @@
               "icon": "lucide-info",
               "title": "File properties for Ghost Hierarchy"
             }
+          },
+          {
+            "id": "b25fb92a8d7847bd",
+            "type": "leaf",
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {},
+              "icon": "cloud",
+              "title": "QuickShare"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -224,60 +234,61 @@
   },
   "active": "60821b31805b086d",
   "lastOpenFiles": [
-    "Home.md",
-    "Characters/Students/Fiadh Gallagher.md",
-    "CD Plans.md",
-    "Characters/Students/Zelda Appel.md",
-    "Characters/Characters.md",
-    "Family Trees.md",
-    "Characters/Gunda Appel.md",
-    "Setting/Germany.md",
-    "Characters/Students/Zayn Belanger.md",
+    "WIP Conlang Stuff/Conlang Brainstorm.md",
+    "WIP Conlang Stuff",
+    "Timeline/Chasing Hearts Timeline Vertical (Old).md",
+    "Timeline/Chasing Hearts Timeline.md",
+    "Timeline/Chasing Hearts Timeline Data.md",
+    "Timeline/Chasing Hearts Timeline Horizontal.md",
+    "Timeline",
+    "Setting.md",
+    "Setting/Unnamed Fictional Planet.md",
     "Setting/Kalamunda Sapling School.md",
-    "Chasing Ghosts Plot Plans.md",
-    "Chapter Summaries/index.md",
-    "content/Characters/Lorcan O'Sullivan.md",
-    "content/CD Plans.md",
+    "Setting/Ireland.md",
+    "Setting/Germany.md",
+    "Setting/Australia.md",
+    "Setting",
+    "PMAALD Family Tree.canvas",
+    "Main Group Relationship Table.md",
+    "Main Group Relationship Diagram.svg",
+    "images/Zelda.jpg",
+    "images/Zayn.png",
+    "images/Sheila.png",
+    "images/Shay.png",
+    "images/Roosje.png",
+    "images/Riona.png",
+    "images/Pasted image 20240415225346.png",
+    "images/Pasted image 20231218133313.png",
+    "images/Pasted image 20230828153732.png",
+    "images",
+    "Home.md",
+    "Ghosts/Ruins/Wrangler Ruin.md",
+    "Ghosts/Ruins/Turbulent Ruin.md",
+    "Ghosts/Ruins/Turbulent Emotional Ruin.md",
+    "Ghosts/Ruins/Tranquillity Ruin.md",
+    "Ghosts/Ruins/Ruins.md",
+    "Ghosts/Ruins/Naturalist Ruin.md",
+    "Ghosts/Ruins/Huntress Ruin.md",
+    "Ghosts/Ruins/Generational Ruin.md",
+    "Ghosts/Ruins/Fragile Ruin.md",
+    "Ghosts/Ruins/Envisioning Ruin.md",
+    "Ghosts/Ruins/Emotional Ruin.md",
+    "Ghosts/Ruins/Committed Wrangler Ruin.md",
+    "Ghosts/Ruins/Committed Ruin.md",
+    "Ghosts/Ruins",
+    "Ghosts",
+    "Chasing Hearts Family Trees.canvas",
+    "Chasing Hearts.canvas",
     "content/Chasing Hearts Family Trees.canvas",
-    "content/Characters/Students/Zelda Appel.md",
-    "content/Characters/Gunda Appel.md",
-    "content/Characters/Teachers/Kasey Howard.md",
     "content/Chasing Hearts.canvas",
-    "content/index.md",
-    "content/Family Trees.md",
-    "content/Chasing Ghosts Plot Plans.md",
-    "content/Setting.md",
-    "content/Characters/Students/Edwin Castillo.md",
-    "content/Ghosts/Ghost Hierarchy.md",
-    "content/Ghosts/Ruins/Wrangler Ruin.md",
-    "content/Ghosts/Ruins/Turbulent Ruin.md",
-    "content/Characters/Amalia Appel.md",
     "content/PMAALD Family Tree.canvas",
-    "content/Main Group Relationship Diagram.svg",
     "node_modules/ajv",
     "node_modules/uuid/v5.js",
     "node_modules/uuid/v4.js",
     "node_modules/uuid/v3.js",
-    "node_modules/uuid/package.json",
-    "node_modules/uuid/v1.js",
-    "node_modules/uuid/lib",
-    "node_modules/uuid/index.js",
-    "node_modules/uuid/bin",
-    "node_modules/uuid/AUTHORS",
-    "public/static/og-image.png",
-    "public/static/icon.png",
-    "public/images/Zelda.jpg",
-    "public/images/Zayn.png",
-    "public/images/Sheila.png",
-    "public/images/Shay.png",
-    "public/images/Roosje.png",
-    "public/images/Riona.png",
-    "public/images/Pasted-image-20240415225346.png",
     "public/PMAALD-Family-Tree.canvas",
     "public/Chasing-Hearts.canvas",
     "public/Chasing-Hearts-Family-Trees.canvas",
-    "Chasing Ghosts Plans/Chasing Hearts Family Trees.canvas",
-    "Chasing Ghosts Plans/Chasing Hearts.canvas",
-    "Chasing Ghosts Plans/PMAALD Family Tree.canvas"
+    "Chasing Ghosts Plans/Chasing Hearts Family Trees.canvas"
   ]
 }

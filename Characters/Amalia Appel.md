@@ -1,3 +1,5 @@
 - Ran away from home when she was ~14
 - [Zelda](Students/Zelda%20Appel)'s older sister
 - Born 2004
+- Now lives in Melbourne
+- Somewhat adopted by [[Shay Gallagher|Shay]] (in the same way that [[Lorcan O'Sullivan|Lorcan]] was)

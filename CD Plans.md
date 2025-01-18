@@ -21,6 +21,7 @@
 - [ ] Sem 1 exam-related chapter
 	- [ ] Finlay
 - [ ] Dream chapter
+- [ ] Krystol + Gunda meeting
 
 # Beginning Arc
 ## 1. Continuation of CH last chapter

@@ -6,6 +6,46 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2025-01-18T05:08:47.289Z",
+      "total": 0,
+      "drafts": {
+        "Chapter Summaries/index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
+      "start": "2025-01-17T04:37:35.293Z",
+      "total": 0,
+      "drafts": {
+        "Chapter Summaries/index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
+      "start": "2025-01-16T09:33:48.700Z",
+      "total": 0,
+      "drafts": {
+        "Chapter Summaries/index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
+      "start": "2025-01-15T10:33:45.411Z",
+      "total": 0,
+      "drafts": {
+        "Chapter Summaries/index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
       "start": "2025-01-14T02:21:14.134Z",
       "total": 0,
       "drafts": {
@@ -261,46 +301,6 @@
     },
     {
       "start": "2024-07-22T12:34:33.543Z",
-      "total": 0,
-      "drafts": {
-        "content/Chapter Summaries/index.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2024-07-21T09:45:22.839Z",
-      "total": 0,
-      "drafts": {
-        "content/Chapter Summaries/index.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2024-07-19T07:51:20.112Z",
-      "total": 0,
-      "drafts": {
-        "content/Chapter Summaries/index.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2024-07-17T13:37:14.708Z",
-      "total": 0,
-      "drafts": {
-        "content/Chapter Summaries/index.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2024-07-10T15:00:46.089Z",
       "total": 0,
       "drafts": {
         "content/Chapter Summaries/index.md": {
