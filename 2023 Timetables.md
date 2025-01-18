@@ -15,10 +15,24 @@
 |    14:50     |        English ATAR        |        Biology ATAR        |     Math Methods ATAR      |     Math Methods ATAR      |        Biology ATAR        |
 
 # Classes for Fiadh:
+| *Start Time* |          Monday           |          Tuesday          |         Wednesday         |         Thursday          |          Friday           |
+| :----------: | :-----------------------: | :-----------------------: | :-----------------------: | :-----------------------: | :-----------------------: |
+|     8:30     |         Homeroom          |         Homeroom          |         Homeroom          |         Homeroom          |         Homeroom          |
+|     8:50     |       Drama General       |       Drama General       |      English General      |       Biology ATAR        |    Woodworking General    |
+|     9:35     |       Drama General       |       Drama General       |      English General      |       Biology ATAR        |      English General      |
+|    10:20     |         *Recess*          |         *Recess*          |         *Recess*          |         *Recess*          |         *Recess*          |
+|    10:35     |      English General      |    Woodworking General    |    Woodworking General    | Outdoor Education General |      English General      |
+|    11:20     |       Biology ATAR        |    Woodworking General    |    Woodworking General    |       Math General        | Outdoor Education General |
+|    12:05     | Outdoor Education General |       Math General        |       Biology ATAR        |    Woodworking General    |       Math General        |
+|    12:50     |          *Lunch*          |          *Lunch*          |          *Lunch*          |          *Lunch*          |          *Lunch*          |
+|    13:20     |       Math General        | Outdoor Education General | Outdoor Education General |    Woodworking General    |       Drama General       |
+|    14:05     |    Woodworking General    |      English General      |       Math General        |      English General      |       Drama General       |
+|    14:50     |    Woodworking General    |       Biology ATAR        |       Drama General       |       Drama General       |       Biology ATAR        |
+
 - Period 1: DRAG	DRAG	ENGG	BIOA	WOOG
 - Period 2: DRAG	DRAG	ENGG	BIOA	ENGG
 - Period 3: ENGG	WOOG	WOOG	OUEG	ENGG
-- Period 4: BIOA	WOOG	WOOG	MATG	OUEG
+- Period 4: BIOA	        WOOG	WOOG	MATG	OUEG
 - Period 5: OUEG	MATG	BIOA	WOOG	MATG
 - Period 6: MATG	OUEG	OUEG	WOOG	DRAG
 - Period 7: WOOG	ENGG	MATG	ENGG	DRAG
