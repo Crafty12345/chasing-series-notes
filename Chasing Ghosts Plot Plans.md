@@ -38,4 +38,11 @@ draft: "true"
 		- He plans to use [Freya's](Red-Haired%20Girl.md) power to move him and his ex-ex-wife (wife before [[Gunda Appel|Gunda]]) from the lower afterlife to the upper afterlife
 - ![[Pasted image 20240415225346.png]]
 	- see: [this](https://discord.com/channels/745434846557372548/1086970227859931248/1229441597834399864) and [this](https://discord.com/channels/745434846557372548/1047121928651030578/1229438562026651678)
-	- 
+## Zelda Timeline
+1. Amalia is born
+2. Zelda and [REDACTED] is born
+3. Zelda's dad does bad stuff to all three of them
+4. Gunda and Zelda's dad divorce
+	1. [REDACTED] leaves with Zelda's dad
+	2. Zelda and Amalia stays with mum
+5. Amalia leaves
